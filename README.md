@@ -7,6 +7,7 @@
 ```
 $ git clone https://github.com/luismoralesp/prueba2.git
 $ cd prueba2
+```
 
 ## Run
 ```
